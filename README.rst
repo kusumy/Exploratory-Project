@@ -29,4 +29,4 @@ Its implementation, evaluation of the result and the visualization of the data s
 
 **Report**
 
-Report on the math and comparison of the the three algorithms on the artifical dataset. It can be found in ``Report.pdf``.
+Report on the math and comparison of the three algorithms on the artifical dataset. It can be found in ``Report.pdf``.
